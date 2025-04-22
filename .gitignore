@@ -1,0 +1,8 @@
+﻿.vs
+Library
+Logs
+obj
+Temp
+monkey.sln
+.vsconfig
+Assembly-CSharp.csproj
